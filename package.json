@@ -1,6 +1,6 @@
 {
   "name": "holidaytoday",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "posts the holidays that are being celibrated today",
   "main": "index.js",
   "scripts": {
